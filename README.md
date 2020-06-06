@@ -74,6 +74,7 @@
 ## Authors
 
 * **Philip Chislou** - *Final work* - [Philip Chislou](https://github.com/h1l1ch).
+* **LearnWebCode** - *foundation* - [Brad Schiff](https://github.com/LearnWebCode).
 
 
 ## Acknowledgments
