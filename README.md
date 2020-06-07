@@ -3,32 +3,39 @@
 **CSS** and **JavaScript** oriented project built using *Node.js* and multiple *npm dependencies*. Introduced me to the modern workflow environment and its core concepts: *Git* & *GitHib*, *SourceTree*, *mobile-first* approach etc.
 
 
-## Start
+## How to use
 
-* Need **final version**? Simply check link of the app. It is *in the header* next to the *description*. 
+* **Jump to different sections** (*Our Beginning*, *Features*, *Testimonials*) using *navigation bar*. Also *appropriate section* **gets automatically selected** once is being scrolled to.
 
-* **Deployment code** is located in "*docs* folder. 
+* **Press "Get in Touch"** or **"Get Started Today"** to call *modal*.
 
-* To launch the **development code** on your computer download *zip file*. Extract in project empty folder. To install all dependencies open npm and type:
+* Check **"Secret Area"** at the *footer*. To get *access to secret information* **type: "javascript"**.
 
-  ```
-  npm init
-  ```
-  now run the code:
+* This website was built with **mobile-first approach** in mind. Its design is **super-responsive**, you must check its *mobile* and *tablet versions*.
+
+## Project structure
+
+* **/docs/** depository includes *deployment version* of the project. 
+
+* **/app/** depository includes *index.html* file and *assets* folder, in which *development code* is located:
+
+  * **/assets/images/** includes *all images* used in designing the website. *Desktop*, *mobile* and *tablet version* images are in this folder due to responsive design. 
   
-  ```
-  npm run start
-  ```
-  You are ready to go and check travel site. ;)
+  * **/assets/scripts/** includes all JavaScript modules. All of them are imported in **"/App.js"** file.
+   
+  * **/assets/styles/** includes all CSS modules. All of them are imported in **"/styles.css"** file.
+       
+* **/cloud-functions/** depository includes *cloud functions server side* code.
 
+* **/.gitignore** is a list filled with exceptions for Git. Once the whole project is commited exceptions will be ignored. 
+
+* **/webpack.config.js** - file includes *webpack configurations*.
+
+* **/.package.json** and **/.package-lock.json** both keep the list of requirements, which allow npm to download all necessary dependencies for further successful project loading. 
 
 ## Things I've learned 
 
 * How to **manually** set **webpack configuration**. 
-
-  * How to build **markup elements** such as *div*, *row* etc. 
-  
-  * How to assign **characteristics distinctive to each element** using *class*, *id*, *section* and other selectors. 
 
 * **Block Element Modifier** rule and other techniques for building *organized HTML*.  
 
