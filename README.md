@@ -5,11 +5,11 @@
 
 ## How to use
 
-* Jump to different sections (*Our Beginning*, *Features*, *Testimonials*) using *navigation bar*. Also *current section* **gets automatically selected** once is being scrolled to.
+* Jump to different sections (*Our Beginning*, *Features*, *Testimonials*) using *navigation bar*. Also current section **gets automatically selected** once is being scrolled to.
 
-* **Press "Get in Touch"** or **"Get Started Today"** to call *modal*.
+* Press **"Get in Touch"** or **"Get Started Today"** to call *modal*.
 
-* Check **"Secret Area"** at the *footer*. To get *access to secret information* **type: "javascript"**.
+* Check **"Secret Area"** at the *footer*. To get *access to secret information* type: **"javascript"**.
 
 * This website was built with **mobile-first approach** in mind. Its design is **super-responsive**, you must check its *mobile* and *tablet versions*.
 
@@ -53,7 +53,7 @@
 
 * How to **deploy site** to the servers. *Netlify* is a great option.
 
-* What are and how to use **cloud functions** using *Netlify* lambda functions to keep the *"secret"* code saved.
+* What are and how to use **cloud functions** using *Netlify lambda functions* to keep the *"secret"* code saved.
 
 * How to test **API calls** using *Postman* app.
 
