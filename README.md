@@ -5,7 +5,7 @@
 
 ## How to use
 
-* **Jump to different sections** (*Our Beginning*, *Features*, *Testimonials*) using *navigation bar*. Also *appropriate section* **gets automatically selected** once is being scrolled to.
+* Jump to different sections (*Our Beginning*, *Features*, *Testimonials*) using *navigation bar*. Also *current section* **gets automatically selected** once is being scrolled to.
 
 * **Press "Get in Touch"** or **"Get Started Today"** to call *modal*.
 
@@ -19,11 +19,11 @@
 
 * **/app/** depository includes *index.html* file and *assets* folder, in which *development code* is located:
 
-  * **/assets/images/** includes *all images* used in designing the website. *Desktop*, *mobile* and *tablet version* images are in this folder due to responsive design. 
+  * **/assets/images/** depository includes *all images* used in designing the website. *Desktop*, *mobile* and *tablet version* images are in this folder due to responsive design. 
   
-  * **/assets/scripts/** includes all JavaScript modules. All of them are imported in **"/App.js"** file.
+  * **/assets/scripts/** depository includes all JavaScript modules. All of them are imported in **"/App.js"** file.
    
-  * **/assets/styles/** includes all CSS modules. All of them are imported in **"/styles.css"** file.
+  * **/assets/styles/** depository includes all CSS modules. All of them are imported in **"/styles.css"** file.
        
 * **/cloud-functions/** depository includes *cloud functions server side* code.
 
